@@ -1,6 +1,7 @@
 companyname:infinixs5
 version:9
 Ram:4.00
+rom:9
 Ram:5gb
 hello how r you
 version: 5
