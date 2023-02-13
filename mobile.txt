@@ -1,0 +1,3 @@
+companyname:infinixs5
+version:9
+Ram:4.00
